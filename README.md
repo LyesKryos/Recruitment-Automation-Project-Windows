@@ -10,4 +10,4 @@ What do to if something breaks:
 No worries! Code goes haywire all the time. If you have issues with running the code, pause and wait a while to see if the problem relates to your computer, internet, or the NS servers. If not, contact the developer at Lies Kryos#1734 on Discord.
 
 Why the verification?
-Verification is required, plain and simple. It protects you, the user, me, the developer, and the region you are using your recruitment for. If something goes horribly wrong and the program is abused, hopefully verification will keep the damage minimal.
+Verification is required, plain and simple. It protects you (the user), me (the developer), and the benefitting party (the region you are using your recruitment for). If something goes horribly wrong and the program is abused, hopefully verification will keep the damage minimal.
