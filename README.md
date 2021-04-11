@@ -2,8 +2,8 @@ Recruitment Automation Program, Version 1.0.1a
 
 Update Notes:
 
--Changes "Input your recruitment template" to "Input your recruitment template ID here"
--Fixes mistake in region checking that will customize the tgcanrecruit shard to your region
+-Changes "Input your recruitment template" to "Input your recruitment template ID here".
+-Fixes mistake in region checking that will customize the tgcanrecruit shard to your region.
 -Adds a "new tab" opening feature that will automatically open a new tab with the provided link when "Enter" is pressed.
 -Added some time padding to the creation of new links, specifically if there is only one nation, to provide more time for nations to be generated.
 
