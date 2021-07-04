@@ -1,8 +1,8 @@
-**Recruitment Automation Program, Version 1.0.2a**
+**Recruitment Automation Program, Version 1.0.3**
 
 **Update Notes:**
 
-- Fixes issue with opening links properly.
+- Addition of simple puppet filter.
 --------------------------
 
 **What it does:**
