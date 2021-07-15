@@ -1,8 +1,11 @@
-**Recruitment Automation Program, Version 1.0.3**
+**Recruitment Automation Program, Version 1.1.0**
+
+**MAJOR RELEASE 1.0**
 
 **Update Notes:**
 
-- Addition of simple puppet filter.
+- Addition of error and crash logging.
+- Cross-platform compatability enabled.
 --------------------------
 
 **What it does:**
