@@ -5,7 +5,7 @@
 **Update Notes:**
 
 - Addition of error and crash logging.
-- Cross-platform compatibility enabled.
+- Cross-platform compatibility enabled for Windows, Linux, and Mac OS.
 --------------------------
 
 **What it does:**
