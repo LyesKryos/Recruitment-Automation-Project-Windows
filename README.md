@@ -20,6 +20,9 @@ No worries! Code goes haywire all the time. If you have issues with running the 
 **Why the verification?**
 Verification is required, plain and simple. It protects you (the user), me (the developer), and the benefitting party (the region you are using your recruitment for). If something goes horribly wrong and the program is abused, hopefully verification will keep the damage minimal.
 
+**License**
+All users are permitted to download and use a copy of the code included in the program. However, the All Rights Reserved license means that all rights, including that of altering and distributing the code, are reserved completely and without exception to Lies Kryos. No other person is permitted to make alterations, distribute copies, or sell this code under any circumstances. 
+
 **Contact information**
 
 Discord: Lies Kryos#1734
