@@ -1,11 +1,9 @@
-**Recruitment Automation Program, Version 1.1.0**
-
-**MAJOR RELEASE 1.0**
+**Recruitment Automation Program, Version 1.1.1w**
 
 **Update Notes:**
 
-- Addition of error and crash logging.
-- Cross-platform compatibility enabled for Windows, Linux, and Mac OS.
+- Specific designation of Windows compatability
+- Updated license
 --------------------------
 
 **What it does:**
