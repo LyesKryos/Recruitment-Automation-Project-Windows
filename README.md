@@ -7,7 +7,7 @@
 --------------------------
 
 **What it does:**
-The Recruitment Automation Program complies a list of new nations from NationStates and inputs them into a link that you can copy. Additionally, it places your recruitment template into the link, meaning one less click for you to make. It also pads the generation time to give you the proper amount of time between link generations. For example, if a link for 4 nations is generated, at least 40 seconds will elapse before the next link is generated.
+The Recruitment Automation Project complies a list of new nations from NationStates and inputs them into a link that you can copy. Additionally, it places your recruitment template into the link, meaning one less click for you to make. It also pads the generation time to give you the proper amount of time between link generations. For example, if a link for 4 nations is generated, at least 40 seconds will elapse before the next link is generated.
 
 **How to start:**
 Simply download the exe file off GitHub, open it, and follow the prompts. If you download the .zip file (recommended), you'll need to decompress the file as well. Once you are finished recruiting, you can simply close the prompt. Note that a small beep sound will be made for each link generated. It is *highly* recommended that you place the .exe recruitment file in a separate folder from other files and documnets prior to running.
