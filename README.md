@@ -1,4 +1,4 @@
-**Recruitment Automation Program, Version 1.1.1w**
+**Recruitment Automation Project, Version 1.1.1w**
 
 **Update Notes:**
 
